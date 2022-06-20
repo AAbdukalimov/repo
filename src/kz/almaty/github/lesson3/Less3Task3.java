@@ -1,4 +1,4 @@
-package kz.almaty.github;
+package kz.almaty.github.lesson3;
 
 import java.util.Scanner;
 
@@ -9,6 +9,7 @@ public class Less3Task3 {
         Scanner scan = new Scanner(System.in);
         System.out.print("Введите количество дней : ");
         int numberOfDays = scan.nextInt();
+        System.out.println("Введите количество осадков за каждый день : ");
         int rainfall;
         int amountOfRainfall = 0;
         double averageOfRainfall = 0;

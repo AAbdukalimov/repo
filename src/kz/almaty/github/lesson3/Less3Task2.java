@@ -1,4 +1,4 @@
-package kz.almaty.github;
+package kz.almaty.github.lesson3;
 
 import java.util.Scanner;
 
